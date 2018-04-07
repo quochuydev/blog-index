@@ -1,1 +1,1 @@
-https://quochuydev.github.io/test_site/
+https://quochuydev.github.io/blog-index/
